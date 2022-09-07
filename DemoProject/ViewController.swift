@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         print("Demo Project")
         sum()
         addSum()
+        summation()
     }
 
     // MARK: - Sum
@@ -27,6 +28,14 @@ class ViewController: UIViewController {
     
     // MARK: - AddSum
     func addSum() {
+        let a = "PA"
+        let b = "RAS"
+        let c = a + b
+        print("c= \(c)")
+    }
+
+    // MARK: - Sum
+    func summation() {
         let a = "PA"
         let b = "RAS"
         let c = a + b
