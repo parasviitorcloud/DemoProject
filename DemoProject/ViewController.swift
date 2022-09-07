@@ -34,7 +34,7 @@ class ViewController: UIViewController {
         print("c= \(c)")
     }
 
-    // MARK: - Sum
+    // MARK: - Summation
     func summation() {
         let a = "E"
         let b = "F"
