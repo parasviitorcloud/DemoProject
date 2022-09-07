@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         sum()
     }
 
+    // MARK: - Sum
     func sum() {
         let a = "PA"
         let b = "RAS"
