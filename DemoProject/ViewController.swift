@@ -20,24 +20,24 @@ class ViewController: UIViewController {
 
     // MARK: - Sum
     func sum() {
-        let a = "First"
-        let b = "Second"
+        let a = "A"
+        let b = "B"
         let c = a + b
         print("c= \(c)")
     }
     
     // MARK: - AddSum
     func addSum() {
-        let a = "A"
-        let b = "B"
+        let a = "C"
+        let b = "D"
         let c = a + b
         print("c= \(c)")
     }
 
     // MARK: - Sum
     func summation() {
-        let a = "First"
-        let b = "Second"
+        let a = "E"
+        let b = "F"
         let c = a + b
         print("c= \(c)")
     }
