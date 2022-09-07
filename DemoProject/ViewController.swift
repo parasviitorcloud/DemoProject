@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        print("Demo Project")
+        print("Demo Project - main")
         sum()
         addSum()
         summation()
