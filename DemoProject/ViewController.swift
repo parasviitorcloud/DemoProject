@@ -27,8 +27,8 @@ class ViewController: UIViewController {
     
     // MARK: - AddSum
     func addSum() {
-        let a = "PA"
-        let b = "RAS"
+        let a = "A"
+        let b = "B"
         let c = a + b
         print("c= \(c)")
     }
