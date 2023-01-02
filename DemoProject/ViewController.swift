@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         sum()
         addSum()
         summation()
-        /////////
+        /////////ViewController
     }
 
     // MARK: - Sum
