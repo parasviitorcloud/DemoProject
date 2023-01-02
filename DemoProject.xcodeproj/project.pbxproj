@@ -164,7 +164,6 @@
 				816278D2C1D50D56165AF5EF /* Pods-DemoProjectTests.debug.xcconfig */,
 				031A2613806EF0CF0549930A /* Pods-DemoProjectTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
